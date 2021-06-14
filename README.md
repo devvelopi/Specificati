@@ -161,6 +161,14 @@ which is then applied
 .Select<Order, OrderDto>(new OrderToOrderDtoProjectionSpecification())
 ```
 
+or alternatively to a single entity
+
+```c#
+var entity = new Order() { Name = "Name", Amount = 10, ProcessingDate = DateTime.UtcNow };
+var projection = new OrderToOrderDtoProjectionSpecification();
+var projectedEntity = projection.Apply(entity);
+```
+
 #### Pitfalls
 
 There are a couple of pitfalls when using this methodology.
