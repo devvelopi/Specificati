@@ -3,6 +3,18 @@
     <PropertyGroup>
         <TargetFramework>netstandard2.0</TargetFramework>
         <LangVersion>9</LangVersion>
+        <Description>A usage of the specification pattern to promote testable, simple collection and object manipulation</Description>
+        <PackageProjectUrl>https://github.com/devvelopi/Specificati</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/devvelopi/Specificati</RepositoryUrl>
+        <PackageTags>specification</PackageTags>
+        <PackageId>Specificati</PackageId>
+        <SignAssembly>true</SignAssembly>
+        <Version>0.1.0</Version>
+        <Title>Specificati</Title>
+    </PropertyGroup>
+
+    <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+      <DocumentationFile>bin\Debug\Specificati.xml</DocumentationFile>
     </PropertyGroup>
 
 </Project>

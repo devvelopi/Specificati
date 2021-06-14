@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3173e0b9-eae0-406e-9d4b-5b37316165c9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/Specificati/Class1.cs" />
+      <option value="$PROJECT_DIR$/Specificati/PagingSpecification.cs" />
+      <option value="$PROJECT_DIR$/Specificati/Utils/Expressions/ReplaceParameterVisitor.cs" />
+      <option value="$PROJECT_DIR$/Specificati/FilterSpecification.cs" />
+      <option value="$PROJECT_DIR$/Specificati/Utils/Expressions/ExpressionExtensions.cs" />
+      <option value="$PROJECT_DIR$/Specificati.UnitTests/FilterSpecificationTests.cs" />
+      <option value="$PROJECT_DIR$/Specificati.UnitTests/OrderSpecificationTests.cs" />
+      <option value="$PROJECT_DIR$/../.gitignore" />
+      <option value="$PROJECT_DIR$/../.github/workflows/publish.yml" />
+      <option value="$PROJECT_DIR$/Specificati/Specificati.csproj" />
+      <option value="$PROJECT_DIR$/../CHANGELOG.md" />
+      <option value="$PROJECT_DIR$/Specificati.Example/Class1.cs" />
+      <option value="$PROJECT_DIR$/Specificati.Example/Models/Oreder.cs" />
+      <option value="$PROJECT_DIR$/Specificati.Example/Models/Order.cs" />
+      <option value="$PROJECT_DIR$/Specificati.Example/Specifications/Filters/RecentOrderSpecification.cs" />
+      <option value="$PROJECT_DIR$/Specificati.Example/Specifications/Orders/OrderByProcessingDateSpecification.cs" />
+      <option value="$PROJECT_DIR$/Specificati.Example/Dtos/OrderDto.cs" />
+      <option value="$PROJECT_DIR$/Specificati.Example/Specifications/Projections/OrderToOrderDtoProjection.cs" />
+      <option value="$PROJECT_DIR$/Specificati.Example/Specifications/Projections/OrderToOrderDtoProjectionSpecification.cs" />
+      <option value="$PROJECT_DIR$/Specificati.Example/Specifications/Filters/LargeOrderSpecification.cs" />
+      <option value="$PROJECT_DIR$/Specificati.Example/Program.cs" />
+      <option value="$PROJECT_DIR$/Specificati.Example/Specifications/Filters/OrderWithNameSpecification.cs" />
+      <option value="$PROJECT_DIR$/Specificati.Example/Models/Order.Specifications.cs" />
+      <option value="$PROJECT_DIR$/Specificati.Example/Example.cs" />
+      <option value="$PROJECT_DIR$/../README.md" />
+    </changedPaths>
+  </component>
+  <component name="ProjectId" id="1tqZqhPS5SUwTmSANFUyaEwBz3w" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3173e0b9-eae0-406e-9d4b-5b37316165c9" name="Default Changelist" comment="" />
+      <created>1623498772942</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623498772942</updated>
+      <workItem from="1623498792891" duration="88000" />
+      <workItem from="1623498906060" duration="2073000" />
+      <workItem from="1623630441443" duration="5512000" />
+    </task>
+    <task id="LOCAL-00001" summary="INITIAL: Added general specification definitions and tests">
+      <created>1623500347206</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1623500347206</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="INITIAL: Added general specification definitions and tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="INITIAL: Added general specification definitions and tests" />
+  </component>
+</project>
