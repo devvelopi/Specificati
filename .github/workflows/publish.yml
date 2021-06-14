@@ -14,13 +14,13 @@ jobs:
         with:
           dotnet-version: 3.1.101
       - name: Install dependencies
-        run: dotnet restore
+        run: dotnet restore src/Specificati
       - name: Build
-        run: dotnet build Specificati --configuration Release --no-restore
+        run: dotnet build src/Specificati/Specificati.csproj --configuration Release --no-restore
       - name: Test
-        run: dotnet test
+        run: dotnet test src/Specificati.sln
       - name: Publish
         uses: brandedoutcast/publish-nuget@v2.5.2
         with:
-          PROJECT_FILE_PATH: Specificati/Specificati.csproj
+          PROJECT_FILE_PATH: src/Specificati/Specificati.csproj
           NUGET_KEY: ${{secrets.NUGET_API_KEY}}

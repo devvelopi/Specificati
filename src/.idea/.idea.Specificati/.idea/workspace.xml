@@ -20,7 +20,6 @@
       <option value="$PROJECT_DIR$/Specificati.UnitTests/FilterSpecificationTests.cs" />
       <option value="$PROJECT_DIR$/Specificati.UnitTests/OrderSpecificationTests.cs" />
       <option value="$PROJECT_DIR$/../.gitignore" />
-      <option value="$PROJECT_DIR$/../.github/workflows/publish.yml" />
       <option value="$PROJECT_DIR$/Specificati/Specificati.csproj" />
       <option value="$PROJECT_DIR$/../CHANGELOG.md" />
       <option value="$PROJECT_DIR$/Specificati.Example/Class1.cs" />
@@ -37,6 +36,7 @@
       <option value="$PROJECT_DIR$/Specificati.Example/Models/Order.Specifications.cs" />
       <option value="$PROJECT_DIR$/Specificati.Example/Example.cs" />
       <option value="$PROJECT_DIR$/../README.md" />
+      <option value="$PROJECT_DIR$/../.github/workflows/publish.yml" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1tqZqhPS5SUwTmSANFUyaEwBz3w" />
@@ -62,7 +62,7 @@
       <updated>1623498772942</updated>
       <workItem from="1623498792891" duration="88000" />
       <workItem from="1623498906060" duration="2073000" />
-      <workItem from="1623630441443" duration="6423000" />
+      <workItem from="1623630441443" duration="6786000" />
     </task>
     <task id="LOCAL-00001" summary="INITIAL: Added general specification definitions and tests">
       <created>1623500347206</created>
