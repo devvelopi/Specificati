@@ -18,7 +18,7 @@ namespace Specificati
             filterSpecification.FilterExpression.Compile();
 
         public static FilterSpecification<T> operator &(FilterSpecification<T> left, FilterSpecification<T> right) =>
-            CombineSpecification(left, right, Expression.And);
+            CombineSpecification(left, right, Expression.AndAlso);
 
         public static FilterSpecification<T> operator |(FilterSpecification<T> left, FilterSpecification<T> right) =>
             CombineSpecification(left, right, Expression.Or);
