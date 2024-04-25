@@ -9,7 +9,7 @@
         <PackageTags>specification</PackageTags>
         <PackageId>Specificati</PackageId>
         <SignAssembly>true</SignAssembly>
-        <Version>0.1.0</Version>
+        <Version>0.1.1</Version>
         <Title>Specificati</Title>
     </PropertyGroup>
 
